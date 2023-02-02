@@ -58,18 +58,14 @@ Ans )
 
 Scope: 
 -The scope of this project is to create a mobile application that addresses the everyday needs of people with disabling hearing loss. 
-
 -The application will use artificial intelligence to recognize key sound events of interest to this community, such as car horns and babies. 
-
 -The app will be optimized for Android devices and will work in real-time with low-latency.
 
 
 
 Features: 
 1)Successful Recognition of key sound events, such as car horns and babies. 
-
 2)Immediate alerts when key sound events are detected. 
-
 3)Optimized for Android devices with low-latency and high throughput for real-time use.
 
 
